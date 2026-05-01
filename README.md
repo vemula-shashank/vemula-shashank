@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Vemula Shashank 👋
+🎓 B.E. Electronics & Communication Engineering @ BVRIT (2024–2027)
+📍 Hyderabad, Telangana, India
+🔭 Passionate about VLSI Design, Analog Layout, RTL Development & FPGA Prototyping
+📫 Reach me at: vemulashashank361@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/vemula-shashank
 
-<!--
-**vemula-shashank/vemula-shashank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Featured Projects
+🧠 EEG Depression Detection – FPGA Implementation
 
-Here are some ideas to get you started:
+Multiscale DFA-Entropy based EEG feature extraction engine:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Built Python golden reference model using Multiscale DFA and entropy metrics
+Implemented bit-accurate Verilog fixed-point RTL for FPGA deployment
+Tools: Python, Verilog, Xilinx Vivado
+
+🔧 Burst Error Detection using CRC:
+
+Improved detection coverage by ~25% through generator polynomial optimization
+Reduced logic overhead while maintaining performance
+Tools: Verilog, SystemVerilog
+
+
+📜 Certifications
+
+🏅 ASIC Synthesis, STA & Physical Design using Cadence — Udemy
+🏅 VSD Physical Design Flow — Udemy
+🏅 FPGA Design & Verification using Kria KV260 Vision AI Platform
+🏅 Comprehensive PCB Design & Prototyping Workshop
+
+⭐ "Engineering Excellence in Electronics & Communication"
