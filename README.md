@@ -29,8 +29,11 @@ Tools: Verilog, SystemVerilog
 📜 Certifications
 
 🏅 ASIC Synthesis, STA & Physical Design using Cadence — Udemy
+
 🏅 VSD Physical Design Flow — Udemy
-🏅 FPGA Design & Verification using Kria KV260 Vision AI Platform
+
+🏅 FPGA Design & Verification using Pynq z2 and Kria KV260 Vision AI Platform
+
 🏅 Comprehensive PCB Design & Prototyping Workshop
 
 ⭐ "Engineering Excellence in Electronics & Communication"
