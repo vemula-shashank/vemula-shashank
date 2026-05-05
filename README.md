@@ -1,8 +1,13 @@
 Hi, I'm Vemula Shashank 👋
+
 🎓 B.E. Electronics & Communication Engineering @ BVRIT (2024–2027)
+
 📍 Hyderabad, Telangana, India
+
 🔭 Passionate about VLSI Design, Analog Layout, RTL Development & FPGA Prototyping
+
 📫 Reach me at: vemulashashank361@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/vemula-shashank
 
 🚀 Featured Projects
